@@ -1,4 +1,4 @@
-# Hi there, I'm Sudipta0070! 👋
+# Hi there, I'm Sudipta Talukder! 👋
 
 ## About Me
 - 🎓 Mechanical Engineering Student at Khulna University of Engineering & Technology (KUET)
