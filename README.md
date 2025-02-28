@@ -18,6 +18,6 @@
 - **[Smart Ankle Brace](https://github.com/Sudipta0070/smart-ankle-brace)**
 
 ## 📫 Connect with Me
-- GitHub: [Sudipta0070](https://github.com/Sudipta0070)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/Sudipta0070)
-- Website: [Your Website](https://sudipta0070.github.io)
+- GitHub: (https://github.com/Sudipta0070)
+- LinkedIn: (https://www.linkedin.com/in/Sudipta0070)
+- Website: (https://sudipta0070.github.io)
