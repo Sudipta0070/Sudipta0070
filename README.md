@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Sudipta0070! 👋
 
-<!--
-**Sudipta0070/Sudipta0070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Mechanical Engineering Student at KUET
+- 🔬 Researcher in **Thermal Actuation & Smart Materials**
+- 💡 Passionate about **Wearable Tech, Thermal Systems, and Control Engineering**
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- MATLAB & Simulink
+- Mechanical Design & Simulation
+- Flutter & Firebase
+- Embedded Systems
+- Thermal Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Controlled Thermal Chamber with PID](https://github.com/Sudipta0070/controlled-thermal-chamber)**
+- **[CGPA Calculator App](https://github.com/Sudipta0070/cgpa-calculator)**
+- **[Smart Ankle Brace](https://github.com/Sudipta0070/smart-ankle-brace)**
+
+## 📫 Connect with Me
+- GitHub: [Sudipta0070](https://github.com/Sudipta0070)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/Sudipta0070)
+- Website: [Your Website](https://sudipta0070.github.io)
