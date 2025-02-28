@@ -1,7 +1,7 @@
 # Hi there, I'm Sudipta0070! 👋
 
 ## About Me
-- 🎓 Mechanical Engineering Student at KUET
+- 🎓 Mechanical Engineering Student at Khulna University of Engineering & Technology (KUET)
 - 🔬 Researcher in **Thermal Actuation & Smart Materials**
 - 💡 Passionate about **Wearable Tech, Thermal Systems, and Control Engineering**
 
@@ -18,6 +18,6 @@
 - **[Smart Ankle Brace](https://github.com/Sudipta0070/smart-ankle-brace)**
 
 ## 📫 Connect with Me
-- GitHub: (https://github.com/Sudipta0070)
-- LinkedIn: (https://www.linkedin.com/in/Sudipta0070)
-- Website: (https://sudipta0070.github.io)
+- GitHub: [Sudipta Talukder](https://github.com/Sudipta0070)
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/sktalukderbd)
+- Website: [My Website](https://sites.google.com/view/sudipta-talukder/home)
