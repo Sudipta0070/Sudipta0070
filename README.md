@@ -7,6 +7,7 @@
 
 ## 🔧 Skills
 - MATLAB & Simulink
+- Comsol
 - Mechanical Design & Simulation
 - Flutter & Firebase
 - Embedded Systems
